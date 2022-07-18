@@ -2,7 +2,7 @@
 #### Soy Desarrollador Web backend 😁
 ![Soy Desarrollador Web backend 😁](https://i.postimg.cc/SRYmMfNp/My-project.jpg)
 
-Autodidacta con pasión y disciplina 💡
+**Autodidacta con pasión y disciplina** 💡
 
 - 📄 Hoja de vida: [Juan Guerrero](https://www.linkedin.com/in/juan-david-guerrero-espinosa-312829245/) 
 - 💬 Pregúntame acerca de Python / Django / Django Rest Framework 
