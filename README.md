@@ -1,6 +1,6 @@
 ### Hola 👋,  mi nombre es  **Juan Guerrero**
 #### Soy Desarrollador Web backend 😁
-![Soy Desarrollador Web backend 😁](https://i.postimg.cc/wBgnpcCj/Juan-Guerrero.jpg)
+![Soy Desarrollador Web backend 😁](https://i.postimg.cc/SRYmMfNp/My-project.jpg)
 
 Autodidacta con pasión y disciplina 💡
 
