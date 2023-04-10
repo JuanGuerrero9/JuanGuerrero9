@@ -1,11 +1,9 @@
 ### Hola 👋,  mi nombre es  **Juan Guerrero**
-#### Soy Desarrollador Web backend 😁
-![Soy Desarrollador Web backend 😁](https://i.postimg.cc/SRYmMfNp/My-project.jpg)
+#### Fundador y CEO de ViewGC 😁
+![En resumidas cuentas, la vida se resume en que si te caes 8 veces 9 te levantas 💡](https://i.postimg.cc/SRYmMfNp/My-project.jpg)
 
 **Autodidacta con pasión y disciplina** 💡
-
-- 📄 Hoja de vida: [Juan Guerrero](https://www.linkedin.com/in/juan-david-guerrero-espinosa-312829245/) 
-- 💬 Pregúntame acerca de Python / Django / Django Rest Framework 
+ 
 - 📫 Cómo contactarme: [juanelguerrero9@gmail.com](https://www.google.com) 
 
 
