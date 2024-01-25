@@ -1,5 +1,5 @@
 ### Hola 👋,  mi nombre es  **Juan Guerrero**
-#### Fundador y CEO de ViewGC 😁
+#### Fundador y CEO de ViewGC 
 ![ 💡](https://i.postimg.cc/SRYmMfNp/My-project.jpg)
 
 **Autodidacta con pasión y disciplina** 💡
