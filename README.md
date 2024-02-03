@@ -2,7 +2,7 @@
 #### Fundador y CEO de ViewGC 
 ![ 💡](https://i.postimg.cc/SRYmMfNp/My-project.jpg)
 
-**Autodidacta con pasión y disciplina** 💡
+**Faith, passion and disipline** 💡
  
 - 📫 Cómo contactarme: [juanelguerrero9@gmail.com](https://www.google.com) 
 
